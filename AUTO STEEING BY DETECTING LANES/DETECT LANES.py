@@ -46,6 +46,5 @@ while True:
     Final_img = cv2.addWeighted(LANE_img, 0.8, line_img, 1, 1)    # Combine the Line Image and LANE Image to Display it
     StackedImages = stackImages(([Canny_Img, img_cropped], [line_img, Final_img]), 0.5)
     cv2.imshow("StackedImg", StackedImages)
-    cv2.imwrite("E:\Python Videos\pythonProject\REF2.jpg",StackedImages)
-    break
-    #cv2.waitKey(1)
+    #cv2.imwrite("E:\Python Videos\pythonProject\REF2.jpg",StackedImages)
+    cv2.waitKey(50)
