@@ -24,3 +24,4 @@ STEP 5: FIND ANGLE
 STEP 6: STEER RC CAR
 ->By Comparing the Threshold for LEFT LANE ANGLE and RIGHT LANE ANGLE,The car is tilted to LEFT ,RIGHT or To go STRAIGHT
 
+![REF2](https://user-images.githubusercontent.com/66992192/101620640-22c80900-3a58-11eb-836b-ca7dc489f240.jpg)
