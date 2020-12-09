@@ -16,6 +16,7 @@ Note: Thresholds used in edge detection depends on Environment
 
 **STEP 3: REGION OF INTEREST**
 ->From the CANNY Image ,Crop the Image According to the Region of Interest
+![CROPPED](https://user-images.githubusercontent.com/66992192/101623689-2bbad980-3a5c-11eb-8478-ecfc17194a84.jpg)
 
 **STEP 4: HOUGH LINES**
 ->From Cropped Image,Find Hough lines Here the BIN Threshold changes with environment,The result of the image is used to TILT RC CAR
