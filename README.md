@@ -1,7 +1,7 @@
 # AUTONOMOUS-RC-CAR-BY-DETECTING-LANES
 Detect Lanes Real time and Tilt steering accordingly using RASPBERRY-PI
 
-STEP 1: CAPTURE IMAGE
+**STEP 1:**  CAPTURE IMAGE
 ->Capture Image from the Real time video from RASPBERRY-PI CAM
 ->This is a continous process that happens every 50ms
 
