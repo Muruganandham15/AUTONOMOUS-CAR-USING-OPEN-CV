@@ -12,7 +12,7 @@ STEP 2: CANNY EDGE IMAGE
 ->Using Canny Edge Detection Technique,Detect the lines from the Gray scale Image.
 Note: Thresholds used in edge detection depends on Environment
 
-![canny](https://user-images.githubusercontent.com/66992192/101622545-894e2680-3a5a-11eb-9a67-f3361ec7d9a8.jpg)
+![canny](https://user-images.githubusercontent.com/66992192/101622695-ba2e5b80-3a5a-11eb-9df6-379799a943d9.jpg)
 
 STEP 3: REGION OF INTEREST
 ->From the CANNY Image ,Crop the Image According to the Region of Interest
