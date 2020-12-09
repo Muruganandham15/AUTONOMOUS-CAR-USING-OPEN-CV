@@ -5,7 +5,7 @@ STEP 1: CAPTURE IMAGE
 ->Capture Image from the Real time video from RASPBERRY-PI CAM
 ->This is a continous process that happens every 50ms
 
-![Right_12_8](https://user-images.githubusercontent.com/66992192/101622331-42603100-3a5a-11eb-8fa2-c2856bf8a0f6.JPG)
+![IMG](https://user-images.githubusercontent.com/66992192/101622808-dd590b00-3a5a-11eb-864e-0e019c053d6a.jpg)
 
 STEP 2: CANNY EDGE IMAGE
 ->Covert the Captured Image to Gray scale Image,
