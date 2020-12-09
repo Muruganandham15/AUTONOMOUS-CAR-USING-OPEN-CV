@@ -20,6 +20,7 @@ STEP 4: HOUGH LINES
 STEP 5: FIND ANGLE
 ->Form Hough lines detected with cropped image,Seperate the Lines as LEFT LANES and RIGHT LANES by finding slope of each line
 ->Find the average angle of LEFT LANE and RIGHT LANE
+
 ![Find_angle](https://user-images.githubusercontent.com/66992192/101622160-0af18480-3a5a-11eb-8823-5c1c66c89610.png)
 
 STEP 6: STEER RC CAR
