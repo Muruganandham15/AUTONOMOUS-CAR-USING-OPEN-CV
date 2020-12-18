@@ -49,9 +49,9 @@ while True:
     elif(RightAngleAvg<RIGHT_LINE_MIN) or (LEFT_LINE_MAX < LeftAngleAvg):
         go_right()
         print("RIGHT")
-
     else:
         pass
+    
     line_img = display_lines_m(LANE_img, lines_canny)             # Create An Image to display the Detected lines
     Final_img = cv2.addWeighted(LANE_img, 0.8, line_img, 1, 1)    # Combine the Line Image and LANE Image to Display it
     StackedImages = stackImages(([Canny_Img, img_cropped], [line_img, Final_img]), 1)
