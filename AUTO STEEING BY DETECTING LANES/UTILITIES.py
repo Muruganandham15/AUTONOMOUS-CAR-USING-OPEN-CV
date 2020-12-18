@@ -16,7 +16,7 @@ def Region(img):
         [(0,height),(640,height),(640,180),(0,180)]
     ])"""
     polygon = np.array([
-        [(0, height), (320, height), (320, 90), (0, 90)]
+        [(0, height), (320, height), (320, 120), (0, 120)]
     ])
     mask = np.zeros_like(img)
     cv2.fillPoly(mask,polygon,(255,255,255))
@@ -58,10 +58,7 @@ def right_angle_avg(lines):
             angle = (angle * 180) / np.pi
             r_angle.append(angle)
         avg = np.average(r_angle)
-        ack=1
-    else:
-        ack=0
-    return avg,ack
+    return avg
 
 
 def left_angle_avg(lines):
@@ -73,10 +70,7 @@ def left_angle_avg(lines):
             angle = (angle * 180) / np.pi
             l_angle.append(angle)
         avg = np.average(l_angle)
-        ack=1
-    else:
-        ack=0
-    return avg,ack
+    return avg
 
 
 def empty(a):
