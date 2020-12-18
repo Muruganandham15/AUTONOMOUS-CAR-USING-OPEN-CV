@@ -58,4 +58,4 @@ while True:
     cv2.imshow("StackedImg", StackedImages)
     cv2.waitKey(10)
 GPIO. cleanup()
-    #break
+
