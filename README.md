@@ -1,5 +1,4 @@
 # AUTONOMOUS-RC-CAR-BY-DETECTING-LANES
-![WhatsApp Image 2020-12-18 at 5 57 10 PM](https://user-images.githubusercontent.com/66992192/102755393-ab786a80-43b1-11eb-97e2-5bed4dddfbb7.jpeg)
 Detect Lanes Real time and Tilt steering accordingly using RASPBERRY-PI
 
 **STEP 1:  CAPTURE IMAGE**
