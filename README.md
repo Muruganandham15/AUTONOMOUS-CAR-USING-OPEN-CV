@@ -1,4 +1,4 @@
-# AUTONOMOUS-RC-CAR-BY-DETECTING-LANES
+# AUTONOMOUS-CAR-USING-OPEN-CV
 Detect Lanes Real time and Tilt steering accordingly using RASPBERRY-PI
 
 **STEP 1:  CAPTURE IMAGE**
